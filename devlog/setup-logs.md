@@ -7,9 +7,6 @@ title: Setup logs
 -----
 <br>
 
-#### December 12:
+### December 12:
 
 Got started with daily logs
-
------
-
