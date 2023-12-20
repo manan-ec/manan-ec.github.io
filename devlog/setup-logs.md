@@ -4,8 +4,8 @@ title: Setup logs
 ---
 
 ## Setup logs
-<br>
 -----
+<br>
 
 #### December 12:
 
