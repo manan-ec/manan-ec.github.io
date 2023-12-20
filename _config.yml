@@ -2,10 +2,10 @@ theme: minima
 minima:
   skin: dark
 
-title: Ab
-author: ab-emptycup
+title: Manan Patel
+author: manan-ec
 description: ""
-email: ab@emptycup.in
+email: manan@emptycup.in
 
 header_pages:
   - index.md
