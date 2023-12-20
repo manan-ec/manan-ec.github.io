@@ -5,6 +5,7 @@ title: Setup logs
 
 ## Setup logs
 <br>
+-----
 
 #### December 12:
 
