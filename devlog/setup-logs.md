@@ -10,4 +10,4 @@ title: Setup logs
 
 ### December 21:
 
-    - Setup local Development Environment
+- Setup local Development Environment
