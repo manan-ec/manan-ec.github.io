@@ -3,7 +3,7 @@ layout: page
 title: Setup logs
 ---
 
-## Setup logs
+
 -----
 <br>
 
