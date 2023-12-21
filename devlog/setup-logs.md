@@ -6,7 +6,7 @@ title: Setup logs
 
 ### December 20:
 
-    - Got started with daily logs
+- Got started with daily logs
 
 ### December 21:
 
