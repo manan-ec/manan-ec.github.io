@@ -42,3 +42,7 @@ title: Setup logs
 ### December 28:
 
 - Finally got the laptop, installed ubuntu and the basic setup.
+
+### December 29:
+
+- Did all the remaining setup till the point I left on my old laptop.
