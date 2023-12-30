@@ -46,3 +46,4 @@ title: Setup logs
 ### December 29:
 
 - Did all the remaining setup till the point I left on my old laptop.
+- Finally, the app worked. Turns out I had to run `ecrebuild --no-cache`.
