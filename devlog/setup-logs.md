@@ -47,3 +47,7 @@ title: Setup logs
 
 - Did all the remaining setup till the point I left on my old laptop.
 - Finally, the app worked. Turns out I had to run `ecrebuild --no-cache`.
+
+### December 30:
+
+- Started with installing mysql workbench, imported the data provided by Ab into the db, played around and tested that everything is working fine.
