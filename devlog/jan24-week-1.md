@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Setup logs
+title: January Week 1
 ---
 
 Jan 1 - Jan 7<br>
