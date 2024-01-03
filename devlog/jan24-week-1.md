@@ -25,3 +25,6 @@ Started with an onboarding call with Ab and Viswanadh P. I have an idea of how m
 - I successfully implemented changing of layers on selecting the category of objects, but was getting some issues on opening the accordions programmatically.
 - Initially I thought that sveltestrap wasn't allowing to open/close accordions programmatically due to poorly maintained sveltestrap docs.
 - But after proper troubleshooting and trying some workarounds, finally I was able to implement it. made the PR.
+- Had a meet with Ab for the PR code review, I need to improve the how I write the commit message, refactor the smartlook code into a `CCTV.js` file as it is a plugin.
+- Also the layoutPlanner switch bug needed some refactoring and simplifying, did that but there a small issue with re-rendering the accordion with the reactive variable of store.
+- Wanted to make the changes and update the PR by today but this issue wasn't resolving. Will try tomorrow morning with a fresh mind.
