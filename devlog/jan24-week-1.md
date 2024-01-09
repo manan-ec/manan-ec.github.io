@@ -28,3 +28,19 @@ Started with an onboarding call with Ab and Viswanadh P. I have an idea of how m
 - Had a meet with Ab for the PR code review, I need to improve the how I write the commit message, refactor the smartlook code into a `CCTV.js` file as it is a plugin.
 - Also the layoutPlanner switch bug needed some refactoring and simplifying, did that but there a small issue with re-rendering the accordion with the reactive variable of store.
 - Wanted to make the changes and update the PR by today but this issue wasn't resolving. Will try tomorrow morning with a fresh mind.
+
+### Thursday, Jan 4:
+
+- Picked where I left, turns out that the sveltestrap Accordion has a bug where is doesn't respond to prop change, it was an active issue on their repo.
+- Found a hacky workaround, added a comment so that it can be helpfull while reading the code afterwards. Updated the PR.
+- Started working on another issue where more then often the room was getting shifted mistakenly my the user.
+- Understanding the how the objects were created and managed and passed to the canvas element took some time.
+- Had a meet with Ab, sat down figured out how the room was getting created and how it was shifted. Tried to block if from moving, can't do it.
+
+### Friday. Jan 5:
+
+- While creating the room, a `RoomController` is also created, which is supposed to handle the events fired from canvas and manage the state of the room in the `layoutplannerjs`.
+- Tried overriding the function selecting the component in the `RoomController` so as to check if any furnishing is there in the room, if that is the case then stop th selection. Turns out both the functions of parent class and child class were being called.
+- Maybe both were getting binded.
+- Turns out, even if I comment the line binding the event to the function selecting room, I was able to select and move the room. Strange.
+- Had a meet with Ab, trying to figure out how the library is working, couldn't so thought to start fresh on Monday.
