@@ -40,4 +40,4 @@ Jan 1 - Jan 7<br>
 
 ### Friday, Jan 12:
 
-- Grouped all `controllers` in a folder, removed unused ui components.
+- Grouped all controllers in a folder, removed unused ui components.
