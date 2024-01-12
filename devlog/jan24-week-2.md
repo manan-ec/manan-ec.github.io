@@ -41,3 +41,6 @@ Jan 1 - Jan 7<br>
 ### Friday, Jan 12:
 
 - Grouped all controllers in a folder, removed unused ui components.
+- Had a meed with Ab for the PR code review.
+- Refactored the `CCTV.js` module, and cleaned up the `Settings` module.
+- Made other requested changes, comitted, and updated the PR.
