@@ -25,3 +25,19 @@ Jan 1 - Jan 7<br>
 - Now before implementing the constrainer, I think locking from woodworks should be implemented first, and then implement the constrainer accordingly.
 - The Implementation of adding the woodworks needed refactoring(Ab noted), but decided to resolve this issue first and then move on to refactor the library.
 - Implemented locking for woodworks in room, comitted and made the PR.
+- Had meet with Ab, discussed how will we proceed for the refactor of `layoutplannerjs` library.
+- Started with separating `Canvas` from `layoutplannerjs` through `LayoutCanvas`.
+
+### Thursday, Jan 11:
+
+- Continued separating `Canvas` and `layoutplannerjs`.
+- Started separating `CanvasUtils` and `CanvasPlugins` from `layoutplannerjs`.
+- Started separating `CanvasObject` and `CanvasGroup` from `layoutplannerjs`.
+- Writing methods in-use for `CanvasObject` in `LayoutCanvas` leaving dead code.
+- Finished writing `CanvasObject` methods, started wiring them in `layoutplannerjs`.
+- Still wiring them in `layoutplannerjs`, it took about 3-4Hrs.
+- Got on a wrong path, reverted all commits.
+
+### Friday, Jan 12:
+
+- Grouped all `controllers` in a folder, removed unused ui components.
