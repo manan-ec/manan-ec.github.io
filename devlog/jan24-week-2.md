@@ -3,7 +3,7 @@ layout: page
 title: January Week 1
 ---
 
-Jan 1 - Jan 7<br>
+Jan 8 - Jan 14<br>
 
 ### Monday, Jan 8:
 
@@ -44,3 +44,5 @@ Jan 1 - Jan 7<br>
 - Had a meed with Ab for the PR code review.
 - Refactored the `CCTV.js` module, and cleaned up the `Settings` module.
 - Made other requested changes, comitted, and updated the PR.
+- If I continued layoutplannerjs refactor, then it would be difficult to merge or rebase the above two PRs.
+- So Ab adviced to try and rebase the refactor branch on top to both those branches. Tried it, successfully rebased.
