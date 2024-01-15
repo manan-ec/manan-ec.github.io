@@ -1,6 +1,6 @@
 ---
 layout: page
-title: January Week 1
+title: January Week 2
 ---
 
 Jan 8 - Jan 14<br>
