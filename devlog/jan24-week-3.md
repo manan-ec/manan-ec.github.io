@@ -40,4 +40,4 @@ Typical Day: 8:00 AM to 8:00 PM
 - 4:10 PM - Was trying to figure out why resizing room was breaking it when furnishing is on it.
 - 5:00 PM - Caught the issue, walls being unlocked and moving it resizes the locked floor, causing the unexpected behaviour.
 - 6:00 PM - 2 options: add constrainer from `RoomController` or get `RoomController` and ask it to lock all walls.
-- 8:15 PM - Shifted the Constrainer to `RoomCOntroller` wired all method calls to proper object.
+- 8:15 PM - Shifted the Constrainer to `RoomController` wired all method calls to proper object.
