@@ -4,6 +4,7 @@ title: January Week 3
 ---
 
 Jan 15 - Jan 21<br>
+Typical Day: 8:00 AM to 8:00 PM
 
 ### Monday, Jan 15:
 
@@ -36,3 +37,7 @@ Jan 15 - Jan 21<br>
 - 1:00 PM - Trying to understand how moving the room was sometimes causing to lock it with furnishing and sometimes not.
 - 2:00 PM - Figured it out, resolved it.
 - 3:00 PM - Also added the constrainer when a room is dropped under a furnishing, made the updated PR.
+- 4:10 PM - Was trying to figure out why resizing room was breaking it when furnishing is on it.
+- 5:00 PM - Caught the issue, walls being unlocked and moving it resizes the locked floor, causing the unexpected behaviour.
+- 6:00 PM - 2 options: add constrainer from `RoomController` or get `RoomController` and ask it to lock all walls.
+- 8:15 PM - Shifted the Constrainer to `RoomCOntroller` wired all method calls to proper object.
