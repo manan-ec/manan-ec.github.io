@@ -27,3 +27,10 @@ Jan 15 - Jan 21<br>
 - Still refactoring it.
 - Turns out, to eliminate it, multiple modules needs to be changed including backend.
 - Trying to auto-select room on addition and autofocus dimension input.
+
+### Wednesday, Jan 17:
+
+- 8:30 AM - Focussing an element on a panel which was to be rendered is getting a bit complex.
+- 10:40 AM - Had a meet with Ab, discussed how to resolve an issue where due to a force push to a remote branch and rebasing `layoutplannerjs` refactor branch introduced squashed commits back, discussed new issues which I will work on for the day.
+- 11:45 AM - Resolved unwanted commits issue, cleaned refactor branch and updated the PR.
+- 1:00 PM - Trying to understand how moving the room was sometimes causing to lock it with furnishing.
