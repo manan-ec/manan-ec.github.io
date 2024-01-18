@@ -50,3 +50,6 @@ Typical Day: 8:00 to 20:00
 - 13:50 - Added a method `getBoundingBox` to `FloorPlan`, now a new room is added outside bounding box of `floorPlan`.
 - 15:30 - Trying to understand how woodworks are saved in such a way it becomes translucent.
 - 16:20 - `shift` is now used to force move the room and `ctrl` is used to force resize the room. Instead of locking, disable events used to not break room on resize.
+- 17:35 - Trying to understand where was woodworks getting locked after saving layout.
+- 19:20 - Turns out locking woodwork isn't necessory as per Ab, so removing it.
+- 20:00 - Did some trivial polishes on `room-break` PR.
