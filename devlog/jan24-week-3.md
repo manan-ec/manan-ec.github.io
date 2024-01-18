@@ -4,7 +4,7 @@ title: January Week 3
 ---
 
 Jan 15 - Jan 21<br>
-Typical Day: 8:00 AM to 8:00 PM
+Typical Day: 8:00 to 20:00
 
 ### Monday, Jan 15:
 
@@ -31,13 +31,19 @@ Typical Day: 8:00 AM to 8:00 PM
 
 ### Wednesday, Jan 17:
 
-- 8:30 AM - Focussing an element on a panel which was to be rendered is getting a bit complex.
-- 10:40 AM - Had a meet with Ab, discussed how to resolve an issue where due to a force push to a remote branch and rebasing `layoutplannerjs` refactor branch introduced squashed commits back, discussed new issues which I will work on for the day.
-- 11:45 AM - Resolved unwanted commits issue, cleaned refactor branch and updated the PR.
-- 1:00 PM - Trying to understand how moving the room was sometimes causing to lock it with furnishing and sometimes not.
-- 2:00 PM - Figured it out, resolved it.
-- 3:00 PM - Also added the constrainer when a room is dropped under a furnishing, made the updated PR.
-- 4:10 PM - Was trying to figure out why resizing room was breaking it when furnishing is on it.
-- 5:00 PM - Caught the issue, walls being unlocked and moving it resizes the locked floor, causing the unexpected behaviour.
-- 6:00 PM - 2 options: add constrainer from `RoomController` or get `RoomController` and ask it to lock all walls.
-- 8:15 PM - Shifted the Constrainer to `RoomController` wired all method calls to proper object.
+- 8:30 - Focussing an element on a panel which was to be rendered is getting a bit complex.
+- 10:40 - Had a meet with Ab, discussed how to resolve an issue where due to a force push to a remote branch and rebasing `layoutplannerjs` refactor branch introduced squashed commits back, discussed new issues which I will work on for the day.
+- 11:45 - Resolved unwanted commits issue, cleaned refactor branch and updated the PR.
+- 13:00 - Trying to understand how moving the room was sometimes causing to lock it with furnishing and sometimes not.
+- 14:00 - Figured it out, resolved it.
+- 15:00 - Also added the constrainer when a room is dropped under a furnishing, made the updated PR.
+- 16:10 - Was trying to figure out why resizing room was breaking it when furnishing is on it.
+- 17:00 - Caught the issue, walls being unlocked and moving it resizes the locked floor, causing the unexpected behaviour.
+- 18:00 - 2 options: add constrainer from `RoomController` or get `RoomController` and ask it to lock all walls.
+- 20:15 - Shifted the Constrainer to `RoomController` wired all method calls to proper object.
+
+### Thursday, Jan 18:
+
+- 9:11 - Had a meet with Ab, discussed roadmap for the day.
+- 10:46 - Fittings Contrainer not releasing when room resizes away, woodwork not constrained when floor dorpped under it: Fixed.
+- 12:10 - Trying to figure out what was causing rooms to move when SHIFT resize, Turns out it was a `FabricCanvas` feature, but in our usecase, using `ctrl` made more sense, so now `ctrl` is used to force move room.
