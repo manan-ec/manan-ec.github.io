@@ -46,4 +46,7 @@ Typical Day: 8:00 to 20:00
 
 - 9:11 - Had a meet with Ab, discussed roadmap for the day.
 - 10:46 - Fittings Contrainer not releasing when room resizes away, woodwork not constrained when floor dorpped under it: Fixed.
-- 12:10 - Trying to figure out what was causing rooms to move when SHIFT resize, Turns out it was a `FabricCanvas` feature, but in our usecase, using `ctrl` made more sense, so now `ctrl` is used to force move room.
+- 12:10 - Trying to figure out what was causing rooms to move when SHIFT resize, Turns out it was a `FabricCanvas` feature, but in our usecase, using `ctrl` made more sense, so now `ctrl` is used to force move and force resize room.
+- 13:50 - Added a method `getBoundingBox` to `FloorPlan`, now a new room is added outside bounding box of `floorPlan`.
+- 15:30 - Trying to understand how woodworks are saved in such a way it becomes translucent.
+- 16:20 - `shift` is now used to force move the room and `ctrl` is used to force resize the room. Instead of locking, disable events used to not break room on resize.
