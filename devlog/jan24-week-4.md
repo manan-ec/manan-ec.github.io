@@ -13,3 +13,7 @@ Typical Day: 8:00 to 20:00<br>
 - 10:00 - Still exploring and commenting how it can be solved, there are like 16 issues.
 - 12:00 - Started working on issued for which I don't need to evaluate any options.
 - 13:20 - Implemented `ctrl` to disable snap, highlighted dimension input on focus and disabled scroll on layout canvas. Made a PR.
+- 16:00 - Refactoring `RoomController`, `WoodworksController` and `GroupController`.
+- 17:30 - Issue in master, moving furnishing on floor breaks. Debugging it.
+- 18:45 - `getController` method in `LayoutPlaner` had a flaw as canvas rerender regenerated canvasObjects, can be fixed by saving `component` in the locks. Original Issue persists.
+- 20:00 - Still figuring out the issue.
