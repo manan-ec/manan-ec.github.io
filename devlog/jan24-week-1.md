@@ -4,6 +4,7 @@ title: January Week 1
 ---
 
 Jan 1 - Jan 7<br>
+Week#: 01/52<br>
 
 Started with an onboarding call with Ab and Viswanadh P. I have an idea of how my learning journey will be during these 6 months and what timeline I'll be following, i.e., just a rough idea of how I'll be getting job-ready after these 6 months.
 

@@ -4,6 +4,7 @@ title: January Week 3
 ---
 
 Jan 15 - Jan 21<br>
+Week#: 03/52<br>
 Typical Day: 8:00 to 20:00
 
 ### Monday, Jan 15:

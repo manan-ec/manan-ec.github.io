@@ -4,6 +4,7 @@ title: January Week 2
 ---
 
 Jan 8 - Jan 14<br>
+Week#: 02/52<br>
 
 ### Monday, Jan 8:
 
