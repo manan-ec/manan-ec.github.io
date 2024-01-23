@@ -31,7 +31,7 @@ Typical Day: 8:00 to 20:00
 
 ### Wednesday, Jan 17:
 
-- 8:30 - Focussing an element on a panel which was to be rendered is getting a bit complex.
+- 08:30 - Focussing an element on a panel which was to be rendered is getting a bit complex.
 - 10:40 - Had a meet with Ab, discussed how to resolve an issue where due to a force push to a remote branch and rebasing `layoutplannerjs` refactor branch introduced squashed commits back, discussed new issues which I will work on for the day.
 - 11:45 - Resolved unwanted commits issue, cleaned refactor branch and updated the PR.
 - 13:00 - Trying to understand how moving the room was sometimes causing to lock it with furnishing and sometimes not.
@@ -44,7 +44,7 @@ Typical Day: 8:00 to 20:00
 
 ### Thursday, Jan 18:
 
-- 9:11 - Had a meet with Ab, discussed roadmap for the day.
+- 09:11 - Had a meet with Ab, discussed roadmap for the day.
 - 10:46 - Fittings Contrainer not releasing when room resizes away, woodwork not constrained when floor dorpped under it: Fixed.
 - 12:10 - Trying to figure out what was causing rooms to move when SHIFT resize, Turns out it was a `FabricCanvas` feature, but in our usecase, using `ctrl` made more sense, so now `ctrl` is used to force move and force resize room.
 - 13:50 - Added a method `getBoundingBox` to `FloorPlan`, now a new room is added outside bounding box of `floorPlan`.
@@ -53,3 +53,12 @@ Typical Day: 8:00 to 20:00
 - 17:35 - Trying to understand where was woodworks getting locked after saving layout.
 - 19:20 - Turns out locking woodwork isn't necessory as per Ab, so removing it.
 - 20:00 - Did some trivial polishes on `room-break` PR.
+
+### Friday. jan 19:
+
+- 09:30 - Had a meet with Ab, discussed roadmap for the day.
+- 10:45 - Trying to understand, why on saving woodwork, window on the wall glitches.
+- 12:00 - When the woodwork and window are on the same wall, on switching to 3D and back to 2D, wall and [woodwork and window] are separated by small amount causing the glitch.
+- 13:10 - After removing a furnishing from a room, deleting it was causing errors, Fixed it.
+- 14:20 - After loading a saved layout, deleting a woodwork was not releasing the constrainer. Fixing it.
+- 16:35 - Updated Room dimensions to show inner to inner dimensions.
