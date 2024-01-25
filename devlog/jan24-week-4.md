@@ -9,7 +9,7 @@ Typical Day: 8:00 to 20:00<br>
 
 ### Tuesday, Jan 23:
 
-- 8:00 - Started by exploring issues assigned to me over the weekend.
+- 08:00 - Started by exploring issues assigned to me over the weekend.
 - 10:00 - Still exploring and commenting how it can be solved, there are like 16 issues.
 - 12:00 - Started working on issued for which I don't need to evaluate any options.
 - 13:20 - Implemented `ctrl` to disable snap, highlighted dimension input on focus and disabled scroll on layout canvas. Made a PR.
@@ -17,3 +17,19 @@ Typical Day: 8:00 to 20:00<br>
 - 17:30 - Issue in master, moving furnishing on floor breaks. Debugging it.
 - 18:45 - `getController` method in `LayoutPlaner` had a flaw as canvas rerender regenerated canvasObjects, can be fixed by saving `component` in the locks. Original Issue persists.
 - 20:00 - Still figuring out the issue.
+
+### Wednesday, Jan 24:
+
+Started today @8:00.
+
+- 09:00 - Saving `Component` for locks in `RoomController`.
+- 11:00 - Saved `Component` in locks, fixed bugs around it.
+- 13:00 - Had a call, discussed what to do as not able to reproduce the issue.
+- 14:15 - Can't reproduce issue so shifted to refactoring `GroupController`.
+- 15:00 - Issue came while refactoring, so shifting to it.
+- 16:00 - Another issue where `_controllers` in `LayoutPlanner` doesn't return a controller even if it has for that group.
+- 17:30 - Still issue can't be resolved.
+- 19:00 - Issue is caused by an unexpected function call.
+- 21:00 - Detached `CanvasObject` having eventhandlers binded caused the issue.
+
+Sign out for the day @21:00
