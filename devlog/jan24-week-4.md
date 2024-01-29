@@ -5,7 +5,6 @@ title: January Week 4
 
 Jan 22 - Jan 28<br>
 Week#: 04/52<br><br>
-Typical Day: 8:00 to 20:00<br>
 
 ### Tuesday, Jan 23:
 
@@ -33,3 +32,18 @@ Started today @8:00.
 - 21:00 - Detached `CanvasObject` having eventhandlers binded caused the issue.
 
 Sign out for the day @21:00
+
+### Thursday, Jan 25:
+
+Started today @8:00
+
+- 09:00 - Fixed the bug, refactored it in clean way, working on another bug caused when deleting wooddwork.
+- 10:00 - FloorPlan component and layoutPlanner's `_controllers` map having different proxies was causing the issue.
+- 11:45 - Had a call, decided to store IDs of components instead of component itself. Also discussed how pipeline workflow will work.
+- 13:45 - Configured all `_controllers` maps to use IDs as keys, combined room-break branch and ctrl-snap branch which had a couple more changes.
+- 14:30 - Rebased the combined branch on top of master, the original bug which started this mess came back, debugging.
+- 15:35 - `zoomExtents` was called multiple times was causing the issue. Fixed it. Submitted the PR
+- 18:00 - Had a long call for the code review of the above PR.
+- 19:20 - Started working on balconies not scallling properly issue.
+
+Sign out for the day @20:00
