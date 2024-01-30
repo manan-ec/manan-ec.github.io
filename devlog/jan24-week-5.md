@@ -20,3 +20,11 @@ Started today @8:00
 - 20:30 - Had the weekly review call.
 
 Sign out @20:30
+
+### Tuesday, Jan 30:
+
+- 08:00 - Started with a bug where incorrect dimenson were passed to UI.
+- 09:45 - Found the cause.
+- 10:30 - Fixing it a lot of time and refactoring, so decided to do it after the alpha release.
+- 11:30 - Outlined approach for modular scroll issue.
+- 12:45 - Identified cause of a bug where roomcontroller was undefined for a floor in the combined PR. Made a small workaround for now and updated PR. Will be refactored later.
