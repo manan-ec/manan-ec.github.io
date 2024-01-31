@@ -28,3 +28,8 @@ Sign out @20:30
 - 10:30 - Fixing it a lot of time and refactoring, so decided to do it after the alpha release.
 - 11:30 - Outlined approach for modular scroll issue.
 - 12:45 - Identified cause of a bug where roomcontroller was undefined for a floor in the combined PR. Made a small workaround for now and updated PR. Will be refactored later.
+- 14:30 - Outlined approaches for issues in `backlog` and updated their status.
+- 15:15 - Trying to find the cause of room moving when `ctrl`.
+- 16:00 - Still trying to find the cause of room moving when `ctrl`.
+
+Sign out @16:00
