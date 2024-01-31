@@ -23,6 +23,8 @@ Sign out @20:30
 
 ### Tuesday, Jan 30:
 
+Started today @8:00
+
 - 08:00 - Started with a bug where incorrect dimenson were passed to UI.
 - 09:45 - Found the cause.
 - 10:30 - Fixing it a lot of time and refactoring, so decided to do it after the alpha release.
@@ -33,3 +35,12 @@ Sign out @20:30
 - 16:00 - Still trying to find the cause of room moving when `ctrl`.
 
 Sign out @16:00
+
+### Wednesday, Jan 31:
+
+Started today @8:00
+
+- 08:00 - Started by fixing modular accordions scrolling past screen.
+- 09:00 - Trying to understand why canvas was sometimes resizing after material reel is rendered.
+- 10:00 - Got the cause, fixing it.
+- 10:45 - Fixed it with cleanest way possible with the existing css. made the PR.
