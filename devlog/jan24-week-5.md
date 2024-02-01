@@ -53,3 +53,17 @@ Started today @8:00
 - 22:00 - Trying to implement `Debugguer` cleanly.
 
 Sign out @22:00
+
+### Thursday, Feb 1:
+
+Started @8:00
+
+- 08:00 - Continued with the memory leaks.
+- 09:00 - Found a leak in room addition.
+- 10:00 - Attached and detached eventHandlers in proper methods, so that they are detached when canvasObject is detached.
+- 11:00 - Removed memory leak on room addition. submitted the PR
+- 12:15 - Issue on master, when fixed, rebased and updated PR.
+- 13:45 - Room addition memory leak issue is still there probably coz not unobserving `_settings`.
+- 15:00 - Understanding what `this in system/context` means which is retaining `CanvasObject`s.
+- 16:00 - Updating controller in LayoutPlanner caused the individual components to not detach, digging.
+- 18:45 - Still there is some memory leak in room addition.
