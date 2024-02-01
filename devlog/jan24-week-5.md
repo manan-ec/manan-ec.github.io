@@ -44,3 +44,12 @@ Started today @8:00
 - 09:00 - Trying to understand why canvas was sometimes resizing after material reel is rendered.
 - 10:00 - Got the cause, fixing it.
 - 10:45 - Fixed it with cleanest way possible with the existing css. made the PR.
+- 12:00 - Testing memory leaks.
+- 14:30 - Still testing memory leaks.
+- 16:15 - Figuring out if the retained memory is actually a leak or not.
+- 18:00 - Seems like there are some memory leaks from fabric as well.
+- 20:00 - Moving a room's wall also has a leak.
+- 21:20 - Undo manager retains the memory so it might not be a leak.
+- 22:00 - Trying to implement `Debugguer` cleanly.
+
+Sign out @22:00
