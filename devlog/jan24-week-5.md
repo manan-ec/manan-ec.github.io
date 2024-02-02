@@ -67,3 +67,8 @@ Started @8:00
 - 15:00 - Understanding what `this in system/context` means which is retaining `CanvasObject`s.
 - 16:00 - Updating controller in LayoutPlanner caused the individual components to not detach, digging.
 - 18:45 - Still there is some memory leak in room addition.
+- 20:00 - Fixed individual component not detaching.
+- 21:15 - Understanding why still there is memory leak on room addition.
+- 22:00 - Still understanding cause of memory leak.
+
+Sign out @22:00
