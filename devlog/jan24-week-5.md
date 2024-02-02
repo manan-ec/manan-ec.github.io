@@ -72,3 +72,19 @@ Started @8:00
 - 22:00 - Still understanding cause of memory leak.
 
 Sign out @22:00
+
+### Friday, Feb 2:
+
+Started @8:00
+
+- 08:00 - Started by testing deployment, making sure everything is working as expected.
+- 09:00 - Everything is working as expected, shifting to memory leak.
+- 10:00 - Fixing copy room issue.
+- 11:30 - Testing deployment.
+- 12:15 - Fixing Room copy issue.
+- 13:00 - Fixed, submitted PR. back to testing beta.
+- 15:00 - There are some missing images in the CDN causing errors in console.
+- 16:00 - Made changes on `room-copy` PR, rebased and updated PR.
+- 17:30 - Binded `zoomExtends` for layoutPlanner, submitted PR.
+
+Sign out @18:00
