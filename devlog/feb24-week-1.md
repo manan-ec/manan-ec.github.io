@@ -18,4 +18,4 @@ Started @8:00
 - 16:00 - Resolved scope issue, now adding room for testing through test script.
 - 17:00 - Trying to initialise `LayoutPlanner` from test script.
 - 18:00 - Removed redundant code in `LayoutPlanner` referencing `Furniture.js`(from `js`).
-- 19:00 - Added room using test script and written proper checks for it.
+- 19:00 - Added room using test script and written proper checks for it. Refactored `initPlanner` in test script code into `common.js` so that it can be used for multiple test files.
