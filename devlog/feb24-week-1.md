@@ -22,3 +22,21 @@ Started @8:00
 - 20:00 - That scope issue popped up again wierdly only for `Furnishings.test.js`, even if I paste same code from `Room.test.js`. Debugging.
 
 Sign Out @20:00
+
+### Tuesday, Feb 6:
+
+Started @8:00
+
+- 08:00 - Picked up where I left yesterday, scope issue for `describe`, even if I don't import `Furnishings.test.js` looks like someone is.
+- 09:30 - Now `mocha` is not running the furnishing test, debugging.
+- 11:00 - This could be an HMR issue. debugging.
+- 11:45 - Found the issue, there were unwanted url params which caused the issue.
+- 12:30 - Documented tests to be written for `addXXX` methods inside `LayoutPlanner`.
+- 14:15 - Writing tests for `addRoom`: Components, controllers, snapper, propertied editor and canvasObject are correctly added.
+- 15:45 - Writing tests for `addRoom`: new Room is added outside floorPlan.
+- 17:30 - Writing tests for `addRoom`: walls & floor are positioned correctly, corner constrainers are created.
+- 18:30 - After I call `setPosition` on floor, something is reverting it. debugging.
+- 19:30 - Canvas(`#test-canvass`) seems to be transparent, debugging.
+- 20:00 - If I render `LayoutPlanner` component, it's canvas renders. debugging.
+
+Sign out @20:00
