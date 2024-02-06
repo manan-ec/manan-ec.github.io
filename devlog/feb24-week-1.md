@@ -21,7 +21,7 @@ Started @8:00
 - 19:00 - Added room using test script and written proper checks for it. Refactored `initPlanner` in test script code into `common.js` so that it can be used for multiple test files.
 - 20:00 - That scope issue popped up again wierdly only for `Furnishings.test.js`, even if I paste same code from `Room.test.js`. Debugging.
 
-Sign Out @20:00
+Sign out @20:00
 
 ### Tuesday, Feb 6:
 
