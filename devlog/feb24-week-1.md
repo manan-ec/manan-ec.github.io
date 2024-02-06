@@ -19,3 +19,6 @@ Started @8:00
 - 17:00 - Trying to initialise `LayoutPlanner` from test script.
 - 18:00 - Removed redundant code in `LayoutPlanner` referencing `Furniture.js`(from `js`).
 - 19:00 - Added room using test script and written proper checks for it. Refactored `initPlanner` in test script code into `common.js` so that it can be used for multiple test files.
+- 20:00 - That scope issue popped up again wierdly only for `Furnishings.test.js`, even if I paste same code from `Room.test.js`. Debugging.
+
+Sign Out @20:00
