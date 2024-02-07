@@ -47,3 +47,11 @@ Started @8:00
 
 - 08:30 - Did requested changes on the tests.
 - 10:00 - Refactored `RoomController`, `WoodworksController`, and `GroupController`. Also refactored `WallCornerConstrainer`, `SideConstrainer` and `Constrainer`.
+- 12:30 - Had a meet, discussed about the new workflow for larger tasks and roadmap for the refactor.
+- 14:00 - Setup the `layoutplanner` branch, documented new workflow for larger features, submitted PR.
+- 16:00 - Removing LayoutPlanner's `observable` dependency on FloorPlan.
+- 17:45 - Figuring out how `LayoutUIAdapter` should be abstracted.
+- 19:00 - Abstracting out `LayoutUIAdapter`.
+- 20:00 - Still abstracting out `LayoutUIAdapter`.
+
+Sign out @20:00
