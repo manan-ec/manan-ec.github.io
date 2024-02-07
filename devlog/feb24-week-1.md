@@ -40,3 +40,10 @@ Started @8:00
 - 20:00 - If I render `LayoutPlanner` component, it's canvas renders. debugging.
 
 Sign out @20:00
+
+### Wednesday, Feb 7:
+
+Started @8:00
+
+- 08:30 - Did requested changes on the tests.
+- 10:00 - Refactored `RoomController`, `WoodworksController`, and `GroupController`. Also refactored `WallCornerConstrainer`, `SideConstrainer` and `Constrainer`.
