@@ -55,3 +55,18 @@ Started @8:00
 - 20:00 - Still abstracting out `LayoutUIAdapter`.
 
 Sign out @20:00
+
+### Thursday, Feb 8:
+
+Started @8:00
+
+- 08:00 - Removing `PropertiesEditor`.
+- 10:00 - Refactored `PropertiedEditor` into `LayoutAdapter`.
+- 11:00 - Refactored `layoutplannerjs/Shortcuts.js` in `LayoutAdapter`.
+- 12:00 - Refactored `js/LayoutPlanner.js` into `js/Layouts.js` and `js/LayoutPlanner.js`.
+- 14:30 - Refactored `LayoutCanvas` to use `LayoutObject`.
+- 16:30 - Shifted `saveLayouts` to `Layouts.js`, some requested changes and merged into `layoutplanner` and updated PR.
+- 18:00 - Documented events in `docs/arch/layoutplanner.md`.
+- 20:00 - Figuring out which events will `LayoutCanvas` fire.
+
+Sign out @20:00
