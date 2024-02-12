@@ -70,3 +70,19 @@ Started @8:00
 - 20:00 - Figuring out which events will `LayoutCanvas` fire.
 
 Sign out @20:00
+
+### Friday, Feb 9:
+
+Started @8:00
+
+- 08:00 - Reproducing room select issue.
+- 09:00 - Figuring out cause of the issue.
+- 10:00 - Fixed and submitted PR.
+- 11:30 - Fixed save broken after deleting part of a group.
+- 12:30 - Abbreviated Rooms menu.
+- 13:30 - Checked out issues assigned to me, close some duplicate/non reproducible issues.
+- 14:30 - Woring on properly positioning labels when rotated.
+- 16:00 - Started working on beta request access form.
+- 18:30 - Created the multi-step form, almost wired all inputs.
+
+Sign out @18:30
