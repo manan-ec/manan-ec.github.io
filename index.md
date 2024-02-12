@@ -3,6 +3,7 @@ layout: home
 ---
 
 
+February, 2024 - [Week 2](/devlog/feb24-week-2.md)<br>
 February, 2024 - [Week 1](/devlog/feb24-week-1.md)<br>
 <br>
 January, 2024 - [Week 5](/devlog/jan24-week-5)<br>
