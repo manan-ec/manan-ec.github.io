@@ -23,6 +23,8 @@ Sign out @20:30
 
 ### Tuesday, Feb 13:
 
+Started @8:00
+
 - 08:00 - Started with an issue where sometimes edit panel was not enabled on selecting an object.
 - 10:00 - Had a call, discussed how canvas element will be retained over switches.
 - 11:30 - Got the switch working without multiple init, now working on shortcuts to bind according to view.
@@ -31,3 +33,6 @@ Sign out @20:30
 - 16:00 - Evaluated removing group component controllers from `_controllers` map in `LayoutPlanner`.
 - 17:30 - Refactored `LayoutPlanner` to use `canvasjs/Canvas` in place of `LayoutCanvas`.
 - 19:00 - Refactored to properly attach/detach events when `canvasObject`s are attached/detached.
+- 20:00 - Figured out the cause of stairs issue.
+
+Sign out @20:00
