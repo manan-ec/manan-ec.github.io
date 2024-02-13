@@ -24,3 +24,10 @@ Sign out @20:30
 ### Tuesday, Feb 13:
 
 - 08:00 - Started with an issue where sometimes edit panel was not enabled on selecting an object.
+- 10:00 - Had a call, discussed how canvas element will be retained over switches.
+- 11:30 - Got the switch working without multiple init, now working on shortcuts to bind according to view.
+- 13:00 - Shortcuts are now binded according to view.
+- 14:30 - Removed canvas events and woodworks locks, merged into `layoutplanner`, cleaned and pushed.
+- 16:00 - Evaluated removing group component controllers from `_controllers` map in `LayoutPlanner`.
+- 17:30 - Refactored `LayoutPlanner` to use `canvasjs/Canvas` in place of `LayoutCanvas`.
+- 19:00 - Refactored to properly attach/detach events when `canvasObject`s are attached/detached.
