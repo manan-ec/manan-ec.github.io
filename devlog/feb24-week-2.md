@@ -45,3 +45,5 @@ Started @8:00
 - 10:00 - Fixed and submitted PR.
 - 10:30 - Fixed stairs issue and submitted PR.
 - 12:30 - Figuring out cause of holes in triple interaction of floors.
+- 13:30 - Found the bug, fixing it.
+- 14:30 - Fixed it, just making sure there are no [bugs](https://github.com/EmptyCupHQ/emptycup3d/issues/250#issuecomment-1943309294) around the change.
