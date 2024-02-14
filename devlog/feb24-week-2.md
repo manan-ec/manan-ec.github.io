@@ -36,3 +36,12 @@ Started @8:00
 - 20:00 - Figured out the cause of stairs issue.
 
 Sign out @20:00
+
+### Wednesday, Feb 14:
+
+Started @8:00
+
+- 08:00 - Started with positioning dimension issue.
+- 10:00 - Fixed and submitted PR.
+- 10:30 - Fixed stairs issue and submitted PR.
+- 12:30 - Figuring out cause of holes in triple interaction of floors.
