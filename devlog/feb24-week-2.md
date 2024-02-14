@@ -47,3 +47,8 @@ Started @8:00
 - 12:30 - Figuring out cause of holes in triple interaction of floors.
 - 13:30 - Found the bug, fixing it.
 - 14:30 - Fixed it, just making sure there are no [bugs](https://github.com/EmptyCupHQ/emptycup3d/issues/250#issuecomment-1943309294) around the change.
+- 16:30 - Rebased and reverted back to not adding group's individual component's controllers in `_controllers` map in `LayoutPlanner`.
+- 17:30 - Fixed the triple floor intersection creating holes issue. Submitted PR.
+- 20:00 - Reproducing and figuring out cause of #234.
+
+Sign out @20:00
