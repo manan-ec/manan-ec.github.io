@@ -52,3 +52,20 @@ Started @8:00
 - 20:00 - Reproducing and figuring out cause of #234.
 
 Sign out @20:00
+
+### Thursday, Feb 15:
+
+Started @8:00
+
+- 08:00 - Started with the changes requested on PRs.
+- 09:00 - Fixed and updated PR for `triple-floor` holes and `dimesions` issue.
+
+Sign out @9:00 due to power cut(Scheduled maintenance)
+
+Started @18:00
+
+- 18:00 - Checking out UV slider issue.
+- 19:00 - Found out possible solutions.
+- 21:00 - Researching outlining Approach for implementing pinch-to-zoom in walkin
+
+Sign out @21:00
