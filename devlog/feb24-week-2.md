@@ -69,3 +69,14 @@ Started @18:00
 - 21:00 - Researching outlining Approach for implementing pinch-to-zoom in walkin
 
 Sign out @21:00
+
+### Friday, Feb 16:
+
+Started @ 8:00
+
+- 09:00 - Figured out how to implement pinch-to-zoom in walkin.
+- 11:00 - Testing for memory leaks in refactor branch.
+- 12:00 - LayoutPlanner is not freezing on continuous usage.
+- 13:00 - Rebasing `layoutplanner` on master.
+- 14:30 - Rebased and updated PR.
+- 16:00 - Figuring out cause of room moving when force resize.
