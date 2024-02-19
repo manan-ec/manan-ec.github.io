@@ -80,3 +80,8 @@ Started @ 8:00
 - 13:00 - Rebasing `layoutplanner` on master.
 - 14:30 - Rebased and updated PR.
 - 16:00 - Figuring out cause of room moving when force resize.
+- 18:00 - Still Figuring out cause of the issue.
+- 19:00 - Shifted to auto select component after addition.
+- 20:00 - Components are getting selected, selecting the input on render.
+
+Sign out @20:00
