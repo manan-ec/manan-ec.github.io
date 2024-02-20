@@ -20,3 +20,20 @@ Started @8:00
 - 20:30 - Had weekly review call.
 
 Sign out @20:30
+
+### Tuesday, Feb 20:
+
+Started @8:00
+
+- 09:30 - Resolved `stayOpen` issue, submitted PR.
+- 10:30 - Setting up layoutplanner cheatsheet.
+- 12:00 - Wrote and Formatted the `Cheatsheet` Component.
+- 13:00 - Polished: Reset only if new room outside view.
+- 15:00 - Setting up toast notifications.
+- 16:30 - Made changes on cheatsheet as discussed in the meet.
+- 17:30 - Implementing toast notification.
+- 18:30 - Implemented and committed toasts.
+- 19:00 - Reverted layourplanner refactor commits and updated PRs.
+- 20:00 - Had a call for working protocol.
+
+Sign out @20:00
