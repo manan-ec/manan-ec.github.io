@@ -51,3 +51,18 @@ Started @8:00
 - 20:00 - Resolved, canvas was rendered 0x0 on `init`.
 
 Sign out @20:00
+
+### Thursday, Feb 22:
+
+Started @8:00
+
+- 08:00 - Started with trying to retain components(in 3D) which are not removed on switch.
+- 09:00 - Retained lights in th scene, fixing a bug with `firstPerson`, can't move around.
+- 11:00 - Trying to retain unchanged layout components on switch.
+- 13:00 - Dropped that idea, made the switch instantaneous.
+- 14:00 - Combined the incremental commits, formatted a proper commit and updated PR.
+- 16:00 - Implemented Settings modal and theme change switch.
+- 18:00 - Had a call for `layoutplanner` refactor branch code review.
+- 20:00 - Made the requested changes in PR review.
+
+Sign out @20:00
