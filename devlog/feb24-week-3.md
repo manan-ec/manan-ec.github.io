@@ -37,3 +37,17 @@ Started @8:00
 - 20:00 - Had a call for working protocol.
 
 Sign out @20:00
+
+### Wednesday, Feb 21:
+
+Started @8:00
+
+- 08:00 - Understanding how walkin scene is initialized.
+- 10:00 - Wrote `showScene` method in `js/Walkin` and walkin is not initialized on switch.
+- 13:00 - Resolved an issue with `showScene`, it wasn't updating scene according to changes in 2D.
+- 15:00 - On switch, trying to generate scene in the browser instead of asking API.
+- 17:30 - On switch, instead of creating new `Scene`, resetting it and giving it new layout definition.
+- 19:30 - On switch, now `Scene` is reset and is passed the new definitions. but there is a small bug, room is rendered only on window resize.
+- 20:00 - Resolved, canvas was rendered 0x0 on `init`.
+
+Sign out @20:00
