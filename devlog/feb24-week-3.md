@@ -66,3 +66,17 @@ Started @8:00
 - 20:00 - Made the requested changes in PR review.
 
 Sign out @20:00
+
+### Friday, Feb 23:
+
+Started @8:00
+
+- 08:00 - Fixing a bug with woodworks deletion.
+- 09:00 - Fixed it, submitted PR along wth yesterday's code polishes.
+- 10:00 - Setting up dark theme.
+- 12:30 - Had a call for remaining part of code review.
+- 15:00 - Made the changes, submitted PR.
+- 16:00 - Picked up and broken down tasks for next week.
+- 18:00 - Fixing npm package dependancy while updrading `sveltestrap`.
+
+Sign out @18:00
