@@ -16,6 +16,7 @@ Started @8:00
 - 11:30 - Updated tests to account for refactor.
 - 13:30 - Wiring `theme` to LayoutPlanner components.
 - 14:30 - Wiring `theme` to Walkin components.
-- 15:30 - Rebased on master and submitted PR.
-- 18:00 - Had a long call for code review for dark theme and merging layoutplanner inot master.
-- 18:30 rebased on master and submitted PR for `dark-theme`.
+- 15:30 - Rebased on master and submitted PR for `dark-theme`.
+- 18:00 - Had a long call for code review for dark theme and merging layoutplanner into master.
+- 18:30 - rebased on master and submitted PR for `dark-theme`.
+- 20:00 - Working out render tours implementation issue.
