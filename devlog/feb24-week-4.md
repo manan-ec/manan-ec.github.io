@@ -10,7 +10,7 @@ Week#: 09/52<br><br>
 
 Started @8:00
 
-- 08:00 - Strated with upgrading `svelte` to support latest version of `sveltestrap`.
+- 08:00 - Started with upgrading `svelte` to support latest version of `sveltestrap`.
 - 09:30 - Fixed dependancy error, now wiring theme to all components.
 - 10:30 - Seems like there is still something wrong with how sveltestrap is installed.
 - 11:30 - Updated tests to account for refactor.
@@ -35,3 +35,7 @@ Started @8:00
 - 16:00 - Image is now accepted, stored in the blob.
 - 17:00 - Generated db migration script, and updated to send `floorplan_ref` along with other details in `GET /projects/pid`.
 - 18:00 - Updated frontend to show floorplan overlay holding 1.
+- 19:00 - Had a call, discussed bug on beta to be fixed with priority.
+- 20:00 - Switching from `fp-overlay` to `bug-fixes` caused some errors on api, debugging it.
+
+Sign out @20:00
