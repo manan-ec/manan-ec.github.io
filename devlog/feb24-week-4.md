@@ -22,3 +22,16 @@ Started @8:00
 - 20:00 - Working out render tours implementation issue.
 
 Sign out @20:00
+
+### Tuesday, Feb 27:
+
+Started @8:00
+
+- 08:00 - Started with working out render tours issue.
+- 09:00 - Comments the proposed solution, I still have 2 hours for working out potential changes in solution.
+- 11:00 - Implemented and wired info label, cleaned and submitted PR.
+- 12:00 - Setting up backend to accept image for floorplan overlay.
+- 14:30 - Still setting up backend to accept image for floorplan overlay.
+- 16:00 - Image is now accepted, stored in the blob.
+- 17:00 - Generated db migration script, and updated to send `floorplan_ref` along with other details in `GET /projects/pid`.
+- 18:00 - Updated frontend to show floorplan overlay holding 1.
