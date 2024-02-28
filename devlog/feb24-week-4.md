@@ -39,3 +39,12 @@ Started @8:00
 - 20:00 - Switching from `fp-overlay` to `bug-fixes` caused some errors on api, debugging it.
 
 Sign out @20:00
+
+### Wednesday, Feb 28:
+
+Started @8:00
+
+- 08:00 - Fixing the API error from yesterday.
+- 09:00 - Fixed the API issue; Fixing the bugs on beta.
+- 12:00 - Fixed most of the issues, unable to reproduce `theme` undefined issue, submitted PR.
+- 13:00 - Rebased cheatsheet and accordion not opening issue PR on master to account for the refactor and theme changes.
