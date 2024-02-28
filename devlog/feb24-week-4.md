@@ -33,7 +33,7 @@ Started @8:00
 - 12:00 - Setting up backend to accept image for floorplan overlay.
 - 14:30 - Still setting up backend to accept image for floorplan overlay.
 - 16:00 - Image is now accepted, stored in the blob.
-- 17:00 - Generated db migration script, and updated to send `floorplan_ref` along with other details in `GET /projects/pid`.
+- 17:00 - Generated db migration script, and updated API to send `floorplan_ref` along with other details in `GET /projects/pid`.
 - 18:00 - Updated frontend to show floorplan overlay holding 1.
 - 19:00 - Had a call, discussed bug on beta to be fixed with priority.
 - 20:00 - Switching from `fp-overlay` to `bug-fixes` caused some errors on api, debugging it.
