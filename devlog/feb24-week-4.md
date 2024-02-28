@@ -49,4 +49,4 @@ Started @8:00
 - 11:00 - Still fixing beta issues.
 - 13:30 - Fixed most of the issues, unable to reproduce `theme` undefined issue, submitted PR.
 - 15:00 - Rebased cheatsheet and accordion not opening issue PR on master to account for the refactor and theme changes.
-- 16:00 - Documented App init in `docs/architecture/webapp.md.
+- 16:00 - Documented App init in `docs/architecture/webapp.md`.
