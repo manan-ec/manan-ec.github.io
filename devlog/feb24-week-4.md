@@ -10,8 +10,8 @@ Week#: 09/52<br><br>
 
 Started @8:00
 
-- 08:00 - Started with upgrading `svelte` to support latest version of `sveltestrap`.
-- 09:30 - Fixed dependancy error, now wiring theme to all components.
+- 08:00 - Started with upgrading `svelte` to support the latest version of `sveltestrap`.
+- 09:30 - Fixed dependency error, now wiring theme to all components.
 - 10:30 - Seems like there is still something wrong with how sveltestrap is installed.
 - 11:30 - Updated tests to account for refactor.
 - 13:30 - Wiring `theme` to LayoutPlanner components.
@@ -28,15 +28,15 @@ Sign out @20:00
 Started @8:00
 
 - 08:00 - Started with working out render tours issue.
-- 09:00 - Comments the proposed solution, I still have 2 hours for working out potential changes in solution.
+- 09:00 - Commented the proposed solution, I still have 2 hours to work out potential changes in the solution.
 - 11:00 - Implemented and wired info label, cleaned and submitted PR.
-- 12:00 - Setting up backend to accept image for floorplan overlay.
-- 14:30 - Still setting up backend to accept image for floorplan overlay.
-- 16:00 - Image is now accepted, stored in the blob.
+- 12:00 - Setting up the backend to accept an image for floorplan overlay.
+- 14:30 - Still setting up the backend to accept an image for floorplan overlay.
+- 16:00 - Image is now accepted, and stored in the blob.
 - 17:00 - Generated db migration script, and updated API to send `floorplan_ref` along with other details in `GET /projects/pid`.
 - 18:00 - Updated frontend to show floorplan overlay holding 1.
-- 19:00 - Had a call, discussed bug on beta to be fixed with priority.
-- 20:00 - Switching from `fp-overlay` to `bug-fixes` caused some errors on api, debugging it.
+- 19:00 - Had a call, and discussed bug on beta to be fixed with priority.
+- 20:00 - Switching from `fp-overlay` to `bug-fixes` caused some errors on API, debugging it.
 
 Sign out @20:00
 
@@ -48,8 +48,17 @@ Started @8:00
 - 09:00 - Fixed the API issue; Fixing the bugs on beta.
 - 11:00 - Still fixing beta issues.
 - 13:30 - Fixed most of the issues, unable to reproduce `theme` undefined issue, submitted PR.
-- 15:00 - Rebased cheatsheet and accordion not opening issue PR on master to account for the refactor and theme changes.
+- 15:00 - Rebased cheatsheet and accordion not opening issue PR on the master to account for the refactor and theme changes.
 - 16:00 - Documented App init in `docs/architecture/webapp.md`.
 - 20:00 - Testing beta.
 
 Sign out @20:00
+
+### Thursday, Feb 29:
+
+Started @8:00
+
+- 08:00 - Started with production landing page changes.
+- 11:30 - Added `/about` page, updated product demo video, and updated some dead links.
+- 12:30 - Refactored landing page.
+- 14:00 - Implementing `/gallery`.
