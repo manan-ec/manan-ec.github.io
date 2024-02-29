@@ -62,3 +62,8 @@ Started @8:00
 - 11:30 - Added `/about` page, updated product demo video, and updated some dead links.
 - 12:30 - Refactored landing page.
 - 14:00 - Implementing `/gallery`.
+- 16:00 - Implemented `/gallery`.
+- 18:00 - Rebased previous PRs on master.
+- 20:00 - Researched on formatters, prettier seems to be good but needs config.
+
+Sign out @20:00
