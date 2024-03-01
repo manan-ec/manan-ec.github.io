@@ -75,6 +75,6 @@ Started @8:00
 - 09:00 - We can add `.prettierrc.json` in the repo hence same formatting for everyone.
 - 13:20 - Had a code review call for pending PRs.
 - 15:30 - Rebased and updated PR for `info-label`.
-- 17:00 - Worked out and picked up issues for next week. Chao.
+- 17:00 - Worked out and picked up issues for next week. Ciao.
 
 Sign out @17:00
