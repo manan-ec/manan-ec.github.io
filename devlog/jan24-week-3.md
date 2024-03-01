@@ -55,7 +55,7 @@ Typical Day: 8:00 to 20:00
 - 19:20 - Turns out locking woodwork isn't necessory as per Ab, so removing it.
 - 20:00 - Did some trivial polishes on `room-break` PR.
 
-### Friday. jan 19:
+### Friday. Jan 19:
 
 - 09:30 - Had a meet with Ab, discussed roadmap for the day.
 - 10:45 - Trying to understand, why on saving woodwork, window on the wall glitches.

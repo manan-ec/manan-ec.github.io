@@ -67,3 +67,14 @@ Started @8:00
 - 20:00 - Researched on formatters, prettier seems to be good but needs config.
 
 Sign out @20:00
+
+### Friday, Mar 1:
+
+Started @8:00
+
+- 09:00 - We can add `.prettierrc.json` in the repo hence same formatting for everyone.
+- 13:20 - Had a code review call for pending PRs.
+- 15:30 - Rebased and updated PR for `info-label`.
+- 17:00 - Worked out and picked up issues for next week. Chao.
+
+Sign out @17:00
