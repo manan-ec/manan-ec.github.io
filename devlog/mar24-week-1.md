@@ -34,3 +34,6 @@ Started @8:00
 - 17:00 - Still trying to find cause of the issue.
 - 18:00 - Had a call debugging the issue, will continue later, shifting to page scrolling in 3D issue.
 - 19:00 - Fixed page scrolling in 3d, and blank screen in 2D issue, updated PR with ceilling disappear issue.
+- 20:00 - Debugging balcony holes issue.
+
+Sign out @20:00
