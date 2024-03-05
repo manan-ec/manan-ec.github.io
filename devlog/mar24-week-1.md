@@ -23,3 +23,14 @@ Started @8:00
 - 20:30 - Had a weekly review call.
 
 Sign out @20:30
+
+### Tuesday, Mar 5:
+
+Started @8:00
+
+- 08:00 - Continued on wall holes with balcony issue.
+- 10:00 - Extra parts are being created, causing the hole.
+- 14:00 - Trying to prevent that extra part to prevent the hole.
+- 17:00 - Still trying to find cause of the issue.
+- 18:00 - Had a call debugging the issue, will continue later, shifting to page scrolling in 3D issue.
+- 19:00 - Fixed page scrolling in 3d, and blank screen in 2D issue, updated PR with ceilling disappear issue.
