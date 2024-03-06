@@ -37,3 +37,12 @@ Started @8:00
 - 20:00 - Debugging balcony holes issue.
 
 Sign out @20:00
+
+### Wednesday, Mar 6:
+
+Started @8:00
+
+- 09:00 - Found the balcony holes issue, fixing it.
+- 10:00 - Existing methods don't account for height overlap.
+- 11:00 - Tried a workaround to get height overlap.
+- 12:00 - Had a call for production website changes.
