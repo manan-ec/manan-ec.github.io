@@ -46,3 +46,5 @@ Started @8:00
 - 10:00 - Existing methods don't account for height overlap.
 - 11:00 - Tried a workaround to get height overlap.
 - 12:00 - Had a call for production website changes.
+- 13:00 - Made the changes and updated PR.
+- 16:00 - Implemented Pricing page and added testimonials, updated PR.
