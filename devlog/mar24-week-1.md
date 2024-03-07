@@ -51,3 +51,13 @@ Started @8:00
 - 18:00 - Fixed balcony holes issue, submitted PR.
 
 Sign out @20:00
+
+### Thursday, Mar 7:
+
+Started @8:00
+
+- 08:00 - Testing beta.
+- 08:30 - Debugging googleAdBot not able to crawl the production website.
+- 10:00 - Shifted to make the requested changes on the website.
+- 11:00 - Back to debugging SSR.
+- 12:30 - Seems like the initial 404 error we get on page load blocked the bot from crawling, even though page loads after that error.
