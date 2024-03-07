@@ -67,3 +67,6 @@ Started @8:00
 - 16:30 - Made the changes and updated PR.
 - 17:30 - Had a cal for code review of pending PR(floorplan upload).
 - 18:00 - Made the changes, and updated PR.
+- 20:00 - Debugging website 404 error.
+
+Sign out @20:00
