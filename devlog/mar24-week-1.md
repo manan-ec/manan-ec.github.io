@@ -61,3 +61,9 @@ Started @8:00
 - 10:00 - Shifted to make the requested changes on the website.
 - 11:00 - Back to debugging SSR.
 - 12:30 - Seems like the initial 404 error we get on page load blocked the bot from crawling, even though page loads after that error.
+- 14:00 - Hosted webiste from my repo to debug the issue.
+- 15:00 - Tried `@sveltejs/adapter-netlfy`, didn't work.
+- 15:30 - Had a call for code review of pending PRs(ceiling-disappear).
+- 16:30 - Made the changes and updated PR.
+- 17:30 - Had a cal for code review of pending PR(floorplan upload).
+- 18:00 - Made the changes, and updated PR.
