@@ -70,3 +70,15 @@ Started @8:00
 - 20:00 - Debugging website 404 error.
 
 Sign out @20:00
+
+### Friday, Mar 8:
+
+Started @8:00
+
+- 08:00 - Continued on 404 issue.
+- 09:00 - Tried different configs in `netlify.toml` but no results, also removed Nikhil's review as confirmation was not received.
+- 10:00 - Finally found the solution, committed and updated PR.
+- 12:00 - Had a call for code review and merge, also discussed new issue to pick up.
+- 14:00 - Working on ceiling component breaking planner issue.
+- 15:00 - Finding cause of scene being empty sometimes.
+- 15:30 - Updated preview image refs for ceiling components, submitted PR.
