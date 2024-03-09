@@ -87,3 +87,14 @@ Started @8:00
 - 20:00 - Setup UI for partition offset shortcuts: rendered input and bound shortcuts.
 
 Sign out @20:00
+
+### Saturday, Mar 9:
+
+Started @8:00
+
+- 08:00 - Continued on the offset partition shortcut.
+- 10:00 - Trying to correctly add the partition at the correct position.
+- 11:00 - Tested and cleaned code, submitted PR
+- 14:00 - Tested the app and reported found bugs to Ab.
+- 16:00 - Found the issue causing room to break on resize in 90 & 270 orientation.
+- 17:00 - Fixed the issue, tested, cleaned the code, committed and submitted PR.
