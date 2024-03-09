@@ -98,3 +98,7 @@ Started @8:00
 - 14:00 - Tested the app and reported found bugs to Ab.
 - 16:00 - Found the issue causing room to break on resize in 90 & 270 orientation.
 - 17:00 - Fixed the issue, tested, cleaned the code, committed and submitted PR.
+- 18:00 - Finding the cause of woodwork not deleting when deleted from design modal.
+- 20:00 - Dropping this issue as it will overcompliate flows in the app, adviced by Ab.
+
+Sign out @20:00
