@@ -82,3 +82,8 @@ Started @8:00
 - 14:00 - Working on ceiling component breaking planner issue.
 - 15:00 - Finding cause of scene being empty sometimes.
 - 15:30 - Updated preview image refs for ceiling components, submitted PR.
+- 17:00 - Found the cause of unable to change project in same session, if we do scene(3D) remains empty, fixed it, this might also be the fix of scene sometimes empty, might not be, further testing might be needed.
+- 17:30 - Tested and submitted PR.
+- 20:00 - Setup UI for partition offset shortcuts: rendered input and bound shortcuts.
+
+Sign out @20:00
