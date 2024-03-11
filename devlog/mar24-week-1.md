@@ -102,3 +102,17 @@ Started @8:00
 - 20:00 - Dropping this issue as it will overcompliate flows in the app, adviced by Ab.
 
 Sign out @20:00
+
+### Sunday, Mar 10:
+
+Started @8:10
+
+- 09:00 - Adding features section on website.
+- 10:00 - Submitted PR.
+- 11:00 - Working on clearing woodwork using "Clear" button.
+- 12:00 - Able to clear the woodwork, but undo manager is not working as expected.
+- 15:00 - Seems like there are multiple sources of truth.
+- 16:00 - Still fixing the undo not working issue.
+- 17:30 - No undos are working for modular, fixing it with "Clear" issue will introduce scope creep, will make a new issue and work on it later, Submitted PR for clearing woodwork sides.
+
+Sign out @17:30
