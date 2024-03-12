@@ -6,7 +6,7 @@ title: March Week 2
 Mar 11 - Mar 17<br>
 Week#: 11/52<br><br>
 
-### Monday, Mar 4:
+### Monday, Mar 11:
 
 Started @8:00
 
@@ -21,3 +21,9 @@ Started @8:00
 - 20:00 - Finding the cause of balcony wall glitching out when aligned with room wall.
 
 Sign out @20:00
+
+### Tuesday, Mar 12:
+
+Started @8:00
+
+- 08:00 - Continued on balcony wall glitch.
