@@ -35,3 +35,14 @@ Started @8:00
 - 20:00 - Updating slotnames in `_theme`.
 
 Sign out @20:00
+
+### Wednesday, Mar 13:
+
+Started @8:00
+
+- 10:00 - Updating slot names in frontend won't be a good idea, doing it in backend.
+- 11:00 - Slot names are updated with area and working.
+- 12:00 - If material for that slot is not available, inferred it from another slot in the same component.
+- 12:30 - Committed and submitted PR.
+- 14:30 - Fixed wall scaling bug, but found another bug with it, fixing it.
+- 16:30 - That wasn't the fix, found the correct fix. Still debugging the unexpected bug.
