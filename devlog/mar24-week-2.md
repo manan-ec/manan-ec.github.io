@@ -27,3 +27,11 @@ Sign out @20:00
 Started @8:00
 
 - 08:00 - Continued on balcony wall glitch.
+- 09:00 - Fixed it, and submitted PR.
+- 11:00 - Working on materials getting reset on updating woodwork.
+- 13:00 - Had a call, and discussed how we will fix this issue.
+- 15:00 - Fixing the issue.
+- 17:00 - Added hash in meshes.
+- 20:00 - Updating slotnames in `_theme`.
+
+Sign out @20:00
