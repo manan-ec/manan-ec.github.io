@@ -64,3 +64,7 @@ Started @8:00
 - 15:30 - Had a call for issues on beta.
 - 16:30 - Fixed white screen issue after switching to 2D.
 - 17:30 - Fixed loading screen styles, clearing woodwork, and TV set not rendering.
+- 18:30 - Figuring out the cause of inability to switch to internals in Woodwork design modal.
+- 20:00 - Figuring out the solution of the issue.
+
+Sign out @20:00
