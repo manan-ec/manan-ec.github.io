@@ -46,3 +46,8 @@ Started @8:00
 - 12:30 - Committed and submitted PR.
 - 14:30 - Fixed wall scaling bug, but found another bug with it, fixing it.
 - 16:30 - That wasn't the fix, found the correct fix. Still debugging the unexpected bug.
+- 18:00 - Fixed, submitted PR.
+- 19:00 - Removed `oldSlot` support for woodwork theme.
+- 20:00 - Figuring out what will be the best option instead of area to do in slot name.
+
+Sign out @20:00
