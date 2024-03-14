@@ -51,3 +51,16 @@ Started @8:00
 - 20:00 - Figuring out what will be the best option instead of area to do in slot name.
 
 Sign out @20:00
+
+### Thursday, Mar 14:
+
+Started @8:00
+
+- 09:15 - Decided what naming convention we will use for slot name.
+- 11:00 - Incorporated the new naming convention.
+- 12:00 - Fixed incorrectly inferring materials. but now materials don't properly apply.
+- 13:00 - Fixed material applying, but now on updating woodworks in modular doesn't correctly infer materials.
+- 14:30 - Finally everything works as expected, tested and submitted PR.
+- 15:30 - Had a call for issues on beta.
+- 16:30 - Fixed white screen issue after switching to 2D.
+- 17:30 - Fixed loading screen styles, clearing woodwork, and TV set not rendering.
