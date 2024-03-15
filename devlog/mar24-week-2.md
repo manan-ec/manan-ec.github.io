@@ -77,3 +77,7 @@ Sign out @20:00
 - 11:30 - Polished `/pricing` page.
 - 12:30 - Resolving build errors on netlify.
 - 13:30 - Making a list of all menu items not adding undo states.
+- 15:30 - Modular undos not working, debugging.
+- 17:30 - Resolving undos not working.
+
+Sign out @ 17:30
