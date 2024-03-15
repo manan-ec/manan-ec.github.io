@@ -68,3 +68,12 @@ Started @8:00
 - 20:00 - Figuring out the solution of the issue.
 
 Sign out @20:00
+
+### Friday, Mar 15:
+
+- 08:00 - Continued on the woodwork issue.
+- 10:00 - Had a call to discuss issues with beta.
+- 11:00 - Removed limit in furnishing gallery, added `light` filter in materials panel, submitted PR.
+- 11:30 - Polished `/pricing` page.
+- 12:30 - Resolving build errors on netlify.
+- 13:30 - Making a list of all menu items not adding undo states.
