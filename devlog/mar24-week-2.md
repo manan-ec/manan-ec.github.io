@@ -88,4 +88,8 @@ Sign out @ 17:30
 
 Started @8:00
 
-- Continued on undos.
+- 08:00 - Continued on undos.
+- 09:00 - Undos are working again, shifting back to adding undo states for all operations.
+- 11:00 - Added Undo states for all actions in woodwork design modal, submitted PR.
+- 12:30 - Fixed woodwork clear erroring out. submitted PR.
+- 13:00 - Enabled undo on changing materials, and submitted PR.
