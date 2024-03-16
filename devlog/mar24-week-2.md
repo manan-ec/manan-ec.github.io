@@ -71,6 +71,8 @@ Sign out @20:00
 
 ### Friday, Mar 15:
 
+Started @8:00
+
 - 08:00 - Continued on the woodwork issue.
 - 10:00 - Had a call to discuss issues with beta.
 - 11:00 - Removed limit in furnishing gallery, added `light` filter in materials panel, submitted PR.
@@ -81,3 +83,9 @@ Sign out @20:00
 - 17:30 - Resolving undos not working.
 
 Sign out @ 17:30
+
+### Saturday, Mar 16:
+
+Started @8:00
+
+- Continued on undos.
