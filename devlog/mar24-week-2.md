@@ -93,3 +93,11 @@ Started @8:00
 - 11:00 - Added Undo states for all actions in woodwork design modal, submitted PR.
 - 12:30 - Fixed woodwork clear erroring out. submitted PR.
 - 13:00 - Enabled undo on changing materials, and submitted PR.
+
+Sign out @20:00
+
+### Sunday, Mar 17:
+
+Started @8:00
+
+- 08:00 - Debugging why furnishings were not updated in planner when updated in scene.
