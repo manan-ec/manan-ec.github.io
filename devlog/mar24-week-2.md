@@ -101,3 +101,11 @@ Sign out @20:00
 Started @8:00
 
 - 08:00 - Debugging why furnishings were not updated in planner when updated in scene.
+- 08:30 - Shifted to cannot apply materials.
+- 10:00 - Found the cause.
+- 12:00 - Evaluated best solution for this issue.
+- 13:30 - Fixed, tested and submitted PR.
+- 14:30 - Almost fixed the issue, but there is 1 decision is to be made that is should we make the `_update` method in `ComponentCOntroller` public.
+- 16:00 - Dropped that fix, found a more cleaner way, tested and submitted PR.
+
+Sign out @17:30
