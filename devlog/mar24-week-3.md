@@ -15,4 +15,4 @@ Started @8:00
 - 11:30 - Fixed a bug where room resize breaks room sometimes.
 - 12:30 - Making a floorplan on `beta.local`, trying to encounter scene empty bug.
 - 15:30 - Finallyy found the cause of the bug. Fixing it.
-- 16:30 - Fixed it, and submitted PR.
+- 16:00 - Fixed it, and submitted PR.
