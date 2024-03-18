@@ -16,3 +16,9 @@ Started @8:00
 - 12:30 - Making a floorplan on `beta.local`, trying to encounter scene empty bug.
 - 15:30 - Finallyy found the cause of the bug. Fixing it.
 - 16:00 - Fixed it, and submitted PR.
+- 17:30 - Trying to run beta api container locally
+- 18:00 - Debugging ink picker not working sometimes.
+- 19:00 - 2 causes for it, 1 fixed, fixing other.
+- 20:00 - Fixed, sumbitted PR.
+
+Sign out @20:00
