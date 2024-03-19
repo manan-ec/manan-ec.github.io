@@ -29,3 +29,12 @@ Started @8:00
 
 - 08:00 - Testing beta.
 - 10:30 - Found an issue, Added to [github](https://github.com/EmptyCupHQ/emptycup3d/issues/558), working on it.
+- 12:30 - Had a call, won't refactor it just patch it.
+- 13:30 - Still working on it.
+- 15:30 - Fixed it, but found another problem, fixing it.
+- 16:30 - Fixed it, submitted PR.
+- 17:30 - Fixed unexpected woodwork rendering issue, submitted PR.
+- 19:00 - Working on 3D shortcuts sometimes triggering when on 2D, the fix won't be worth it, will be refactored after release.
+- 20:00 - Trying to reproduce switch issue.
+
+Sign out @20:00
