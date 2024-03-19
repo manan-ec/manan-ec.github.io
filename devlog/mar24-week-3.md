@@ -22,3 +22,10 @@ Started @8:00
 - 20:00 - Fixed, sumbitted PR.
 
 Sign out @20:00
+
+### Tuesday, Mar 19:
+
+Started @8:00
+
+- 08:00 - Testing beta.
+- 10:30 - Found an issue, Added to [github](https://github.com/EmptyCupHQ/emptycup3d/issues/558), working on it.
