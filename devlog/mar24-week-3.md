@@ -38,3 +38,12 @@ Started @8:00
 - 20:00 - Trying to reproduce switch issue.
 
 Sign out @20:00
+
+### Thursday, Mar 20:
+
+- 08:30 - Gave a PR for woodwork not being deleted if it has only 1 side.
+- 09:00 - Fixed the switch bug, submitted PR.
+- 10:00 - Working on lazy loading materials reel.
+- 12:30 - Fixed it, submitted PR.
+- 13:30 - Working on Woodwork not refreshing after updating in design modal.
+- 14:30 - Fixed it, submitted PR.
