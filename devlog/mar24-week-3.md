@@ -53,3 +53,11 @@ Started @8:00
 - 19:00 - Trying to reproduce scene not loading issue.
 
 Sign out @20:00
+
+### Friday, Mar 21:
+
+Started @8:00
+
+- 09:00 - Working on polishes requested after demo.
+- 15:00 - Fixed a bunch of the issues and submitted PR, working on others.
+- 17:00 - Working on room moving when wall is scaled.
