@@ -20,3 +20,17 @@ Started @8:00
 - 20:00 - Debugging shortcuts not working.
 
 Sign out @20:00
+
+### Wednesday, Mar 27:
+
+Started @8:00
+
+- 08:00 - Continued on shortcuts.
+- 10:00 - Submitted PR for copying woodwork and spinner for canceling render.
+- 11:30 - Unable to reproduce shortcuts bug.
+- 14:00 - Enabling scaling of ledges and platforms.
+- 16:00 - Enabled, submitted PR.
+- 18:00 - Getting hotspots to work.
+- 19:00 - Got `firstperson` to start from a hotspot, but can't switch between hotspots.
+
+Sign out @20:00
