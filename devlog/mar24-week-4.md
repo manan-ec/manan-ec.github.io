@@ -34,3 +34,20 @@ Started @8:00
 - 19:00 - Got `firstperson` to start from a hotspot, but can't switch between hotspots.
 
 Sign out @20:00
+
+### Thursday, Mar 28:
+
+Started @8:00
+
+- 08:00 - Continued on hotspots, switching is not needed as of now.
+- 09:30 - If no hotspots are present, doors are considered as starting position for firstperson. Submitted PR.
+- 11:30 - Properly formatted info label content for mesh details, also added priority support for info labels, submitted PR.
+- 15:00 - Had a call for further issues.
+- 17:00 - Resolving those issues.
+- 19:30 - Resolved most of the issues.
+    * Updated door handle color in design modal.
+    * Removed `Box(free size)` option.
+    * Shrunken material reel on selection.
+    * Fixed: Ink picker enabled when on render's panel.
+    * UV scale and preset is also read correctly by ink picker.
+    * Fixed broken gallery style.
