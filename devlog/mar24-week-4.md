@@ -62,5 +62,6 @@ Started @8:00
 - 10:30 - Working on adding GSTN in settings modal.
 - 13:30 - GSTN is now setup and wired to backend, saved in `account` table. Working on how we will use it during txns.
 - 15:30 - Address and state are also added, all wired up and validation is also done.
+- 17:30 - Working on how we will generate invoice with the GSTN so that user can download.
 
 Sign out @17:30
