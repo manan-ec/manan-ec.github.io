@@ -58,3 +58,9 @@ Sign out @20:00
 ### Friday, Mar 29:
 
 Started @8:00
+
+- 10:30 - Working on adding GSTN in settings modal.
+- 13:30 - GSTN is now setup and wired to backend, saved in `account` table. Working on how we will use it during txns.
+- 15:30 - Address and state are also added, all wired up and validation is also done.
+
+Sign out @17:30
