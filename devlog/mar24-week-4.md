@@ -51,3 +51,10 @@ Started @8:00
     * Fixed: Ink picker enabled when on render's panel.
     * UV scale and preset is also read correctly by ink picker.
     * Fixed broken gallery style.
+- 20:00 - Submitted PR.
+
+Sign out @20:00
+
+### Friday, Mar 29:
+
+Started @8:00
