@@ -32,3 +32,35 @@ Started @8:00
 - 20:00 - Debugging floor parts.
 
 Sign out @20:00
+
+### Wednesday, Apr 3:
+
+Started @8:00
+
+- 08:00 - Continued with debugging floors.
+- 08:30 - The issue was causing just 1 extra click, which was not worth the time, dropped.
+- 10:00 - Submitted PR for `infoLabel` not correctly showing information about materials.
+- 13:00 - Multi-select: Ran into an issue where we are unable to write custom logic for selection using `fabric.ActiveSelection, feature is on hold for now.
+- 15:30 - Debugging woodwork not refreshing sometimes, this is also an issue where it's bugging inconsistently.
+- 16:30 - Notified user if woodwork save failed, this might fix the issue, submitted PR.
+- 18:00 - Had a call for further polishes.
+- 20:00 - Fixed some of the polishes.
+
+Sign out @20:00
+
+### Thursday, Apr 4:
+
+Started @8:00
+
+- 08:00 - Continued on polishes, handling decimal inputs in ft edit panel and >12 inputs in inches.
+- 10:00 - Styling toast.
+
+Log off because of powercut @10:30
+Log in @15:30
+
+- 15:30 - Continued on toast.
+- 17:00 - Submitted PR for all issues/polishes discussed yesterday.
+- 18:30 - Fixed and submitted PR for gallery styles
+- 20:00 - Working on changing units in edit panel.
+
+Sign out @20:00
