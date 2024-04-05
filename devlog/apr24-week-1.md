@@ -76,3 +76,5 @@ Started @8:00
 - 13:30 - Working on preview component before adding in planner.
 - 15:30 - Rendering components.
 - 18:30 - Still rendering components.
+
+Sign out @18:30
