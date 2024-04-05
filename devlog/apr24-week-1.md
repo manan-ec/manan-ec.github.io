@@ -64,3 +64,15 @@ Log in @15:30
 - 20:00 - Working on changing units in edit panel.
 
 Sign out @20:00
+
+### Friday, Apr 5:
+
+Started @8:00
+
+- 09:00 - Moved all settings to `js/Settings.js`, units can be selected separately for planner and design separately.
+- 10:00 - Planner's canvas object's dimensions are also rendered accordingly.
+- 10:30 - Cleaned and submitted PR.
+- 12:30 - Shifted lights to it's own accordion in planner. Submitted PR.
+- 13:30 - Working on preview component before adding in planner.
+- 15:30 - Rendering components.
+- 18:30 - Still rendering components.
