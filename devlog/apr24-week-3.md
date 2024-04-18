@@ -26,3 +26,18 @@ Sign out @20:00
 - 10:00 - Had a call, discussed the locking of the room.
 - 12:00 - Submitted PR for showing toast when clicking locked room.
 - 15:00 - Working on translucency of components having small components under them.
+- 16:30 - Made changes on previous PRs when merging them.
+- 19:00 - Some more changes on prevoius PRs.
+
+Sign out @20:00
+
+### Thursday, Apr 18:
+
+Started @8:00
+
+- 09:00 - Woring on underlying components not visible.
+- 10:00 - Obteined the overlying component and made it translucent.
+- 11:00 - Handling edge cases.
+- 12:00 - Had a call, have to rethink the logic of calculating overlying components.
+- 13:00 - Submitted PR for underlying components not visible.
+- 15:00 - Making changes on `gstn` PR.
