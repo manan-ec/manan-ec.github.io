@@ -42,3 +42,12 @@ Started @8:00
 - 13:00 - Submitted PR for underlying components not visible.
 - 15:00 - Making changes on `gstn` PR.
 - 17:30 - Updated PR for `gstn`.
+- 19:00 - Debugging misconfigured walkin init.
+
+Sign out @20:00
+
+### Friday, Apr 19:
+
+Started @8:00
+
+- 09:00 - Updated toast actions and a couple of fixes, submitted PR.
