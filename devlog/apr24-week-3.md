@@ -51,3 +51,8 @@ Sign out @20:00
 Started @8:00
 
 - 09:00 - Updated toast actions and a couple of fixes, submitted PR.
+- 10:00 - Rebased `gstn` on latest `release`.
+- 11:00 - Updated `DragSelector` to select components on any overlapping components instead of fully overlapping.
+- 13:00 - Polished toast.
+- 14:00 - Trying to disable locked room click toast when drag selecting a component. later decided not to.
+- 16:00 - Updated `overlap-translucent` PR with requsted changes.
