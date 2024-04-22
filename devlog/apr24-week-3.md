@@ -56,3 +56,6 @@ Started @8:00
 - 13:00 - Polished toast.
 - 14:00 - Trying to disable locked room click toast when drag selecting a component. later decided not to.
 - 16:00 - Updated `overlap-translucent` PR with requsted changes.
+- 17:30 - Updated `drag-selector` PR.
+
+Sign out @17:30
