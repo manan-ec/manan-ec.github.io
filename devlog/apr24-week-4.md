@@ -49,3 +49,18 @@ Started @8:00
 - 19:00 - Cleaned, tested and updated PR.
 
 Sign out @20:00
+
+### Thursday, Apr 25:
+
+Started @8:00
+
+- 08:00 - Started with implementing smooter way to move furnihsings at a place out of view.
+- 11:00 - Done with the implementation, `PickAndMove` not working as expected sometimes, debugging.
+- 13:30 - Changed the approach, cleaned and submitted PR.
+- 14:30 - Disabled shortcuts when focus is on inputs and removed `Edit``Submit` on editing settings.
+- 15:30 - Solved a UI issue on `RendersPanel`.
+- 16:30 - Polished modular controls(requested polishes).
+- 19:00 - Further polishing modular controls.
+- 21:00 - Had a quaterly review call.
+
+Sign out @21:00
