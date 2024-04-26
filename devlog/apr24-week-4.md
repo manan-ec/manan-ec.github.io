@@ -64,3 +64,16 @@ Started @8:00
 - 21:00 - Had a quaterly review call.
 
 Sign out @21:00
+
+### Friday, Apr 26:
+
+Started @8:00
+
+- 08:00 - Started with woodowrk not refreshing issue.
+- 11:00 - Shifted to implementing toast policy.
+- 12:30 - Implemented and submitted PR.
+- 14:30 - Debugged smartlook giving warnings.
+- 17:00 - Still debugging woodworks issue.
+- 17:30 - Polished modular controls PR.
+
+Sign out @17:00
