@@ -51,3 +51,10 @@ Sign out @20:00
 ### Thursday, May 2:
 
 Started @8:00
+
+- 09:00 - Fixed UI glitch in modular when scaling. Updated PR.
+- 11:00 - Trying to reproduce the issue with moving unselected components.
+- 12:00 - Workded out better way to update walls when room's height is changed.
+- 13:30 - Fixed room-wall height issue, updated PR.
+- 15:30 - Enabling zoom on modular, zoomer and panner are added, debugging how bounds are calculated for rendering gear icon.
+- 17:00 - Accounted for both pan and zoom, while calculating bounds.

@@ -39,7 +39,7 @@ Started @8:00
 
 Sign out @20:00
 
-### Thursday, Mar 20:
+### Thursday, Mar 21:
 
 Started @8:00
 
@@ -54,7 +54,7 @@ Started @8:00
 
 Sign out @20:00
 
-### Friday, Mar 21:
+### Friday, Mar 22:
 
 Started @8:00
 
