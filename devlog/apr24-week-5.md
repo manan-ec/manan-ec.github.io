@@ -40,3 +40,14 @@ Sign out @20:00
 ### Wednesday, May 1:
 
 Started @8:00
+
+- 11:30 - Picked up issues added to the tracker, workedout wherever needed, added the estimate planned hours.
+- 14:00 - FIxed a couple of issues and submitted PR.
+- 17:00 - Fixed more bugs and blockers, switching between multiple issues, that's why logs are not having any info about tasks.
+- 20:00 - Fixed more issues and submitted PR.
+
+Sign out @20:00
+
+### Thursday, May 2:
+
+Started @8:00
