@@ -3,6 +3,38 @@
 REPO_DIR="$HOME/logs"
 INDEX_FILE="${REPO_DIR}/index.md"
 
+code_flag=false
+push_flag=false
+
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        --code)
+            code_flag=true
+            shift
+            ;;
+        --push)
+            push_flag=true
+            shift
+            ;;
+        *)
+            echo "Unknown option: $1"
+            exit 1
+            ;;
+    esac
+done
+
+# Handle flags
+if $code_flag; then
+    code $REPO_DIR
+    exit
+fi
+
+if $push_flag; then
+    (cd "$REPO_DIR" && git add . && git commit -m "Logs" && git push origin main)
+    exit
+fi
+
+
 init_variables() {
     YEAR=$(date +%Y)
     MONTH=$(date +%b)
@@ -44,15 +76,20 @@ handle_new_entry() {
     TODAY=$(date +"%A, %b %-d")
 
     if ! grep -q "### $TODAY:" "$FILE"; then
-        (cd "$REPO_DIR" && git add "$FILE" && git commit -m "Logs")
+        (cd "$REPO_DIR" && git add "$FILE" && git commit -m "Logs" && git push origin main)
         echo -e "\n### $TODAY:\n" >> "$FILE"
     fi
 
-    if ! grep -q "^[-*]" "$TEMP_FILE"; then
-        echo "- $(cat $TEMP_FILE)" >> "$FILE"
+    if [[ -s "$TEMP_FILE" ]]; then
+        if ! grep -q "^[-*]" "$TEMP_FILE"; then
+            echo "- $(cat "$TEMP_FILE")" >> "$FILE"
+        else
+            cat "$TEMP_FILE" >> "$FILE"
+        fi
     else
-        cat "$TEMP_FILE" >> "$FILE"
+        echo "TEMP_FILE is empty. No changes made."
     fi
+
 }
 
 main() {
